@@ -1,4 +1,24 @@
 {
+  "title": "RDAS Updates",
+  "language": "en",
+  "items": [
+    {
+      "title": "RDAS v1.3.0",
+      "version": "1.3.0",
+      "url": "https://raw.githubusercontent.com/NTLDR2/RDAS-DIST/refs/heads/master/RDAS101.exe",
+      "os": "windows",
+      "publication_date": "2026-03-23T00:00:00Z",
+      "assets": [
+        {
+          "path": "RDAS101.exe",
+          "url": "https://raw.githubusercontent.com/NTLDR2/RDAS-DIST/refs/heads/master/RDAS101.exe",
+          "hash": "sha256-of-the-exe",
+          "size": 2048000
+        }
+      ]
+    }
+  ]
+}{
   "title": "RDAS v1.3.0",
   "version": "1.3.0",
   "url": "https://raw.githubusercontent.com/NTLDR2/RDAS-DIST/refs/heads/master/RDAS101.exe",
