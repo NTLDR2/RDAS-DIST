@@ -1,0 +1,13 @@
+{
+  "title": "RDAS v1.2.0",
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/NTLDR2/RDAS-DIST/refs/heads/master/RDAS101.exe",
+  "assets": [
+    {
+      "path": "RDAS101.exe",
+      "url": "https://raw.githubusercontent.com/NTLDR2/RDAS-DIST/refs/heads/master/RDAS101.exe",
+      "hash": "sha256-of-the-exe",
+      "size": 2048000
+    }
+  ]
+}
